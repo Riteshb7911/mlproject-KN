@@ -1,0 +1,9 @@
+numpy
+pandas
+python-dotenv
+mysql-connector-python
+scikit-learn
+seaborn
+pymysql
+catboost
+xgboost
